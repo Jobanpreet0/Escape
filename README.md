@@ -4,6 +4,9 @@
 
 This project involved creating a cooperative puzzle-solving game experience for two players, fostering communication and teamwork as essential elements for success. The core idea was to create an engaging and enjoyable gameplay dynamic that goes beyond individual play. Meanwhile, the chosen game style is 2D, featuring characters with animated movements within this two-dimensional environment. The emphasis on a 2D setting enhances accessibility and allows for the implementation of intricate puzzle scenarios and varying levels of difficulty. This combination of a cooperative concept and a 2D game style aims to deliver an immersive and entertaining gaming experience for players engaging with the project.
 
+## **Demo**
+![Escape](https://github.com/Jobanpreet0/Escape/assets/66274737/91b15ee6-3e2a-473b-a436-dfa2c12bf403)
+
 ## **How To Play**
 
 **Player 1 Movement**
